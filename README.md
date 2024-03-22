@@ -1,3 +1,3 @@
 # Welcome to my Git Basic Project
-##Intro
+## Intro
 This is a git repo for Git Basics
